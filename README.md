@@ -1,2 +1,2 @@
-# week-one-challenge
-code refractions
+# HTML-CSS-Git-Challenge-Code-Refactor
+Revised code
