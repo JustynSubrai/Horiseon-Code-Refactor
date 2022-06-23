@@ -1,4 +1,4 @@
-# Horiseon Code Refractor
+# Horiseon Code Refactor
  Table of Contents
 * [Description](#description)
 * [Images](#images)
